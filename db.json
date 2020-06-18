@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "first",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Sam"
+    },
+    {
+      "id": 2,
+      "message": "second",
+      "attention": true,
+      "date": "03-02-2019",
+      "tech": "John"
+    },
+    {
+      "id": 3,
+      "message": "third",
+      "attention": false,
+      "date": "03-02-2019",
+      "tech": "Sara"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Jennifer",
+      "lastName": "William",
+      "id": 4
+    }
+  ]
+}
