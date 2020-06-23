@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "id": 1,
-      "message": "first",
+      "message": "Change network card in server 007",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam"
+      "tech": "Sam Smith",
+      "date": "2020-06-23T11:00:51.547Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "second",
+      "message": "Hard rive failed in Work Station 002",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John"
+      "tech": "Sara Wilson",
+      "date": "2020-06-23T11:01:16.282Z",
+      "id": 2
     },
     {
-      "id": 3,
-      "message": "third",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara"
+      "message": "Wireless down",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-06-23T11:01:37.462Z",
+      "id": 3
     }
   ],
   "techs": [
