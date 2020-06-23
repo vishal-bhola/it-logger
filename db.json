@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "message": "Change network card in server 007",
+      "id": 1,
+      "message": "Fixed network card error in server 007",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-06-23T11:43:30.261Z"
+    },
+    {
+      "id": 2,
+      "message": "Fixed Hard Drive on Work Station 002",
       "attention": false,
       "tech": "Sam Smith",
-      "date": "2020-06-23T11:00:51.547Z",
-      "id": 1
+      "date": "2020-06-23T11:48:13.904Z"
     },
     {
-      "message": "Hard rive failed in Work Station 002",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2020-06-23T11:01:16.282Z",
-      "id": 2
-    },
-    {
+      "id": 3,
       "message": "Wireless down",
       "attention": true,
-      "tech": "John Doe",
-      "date": "2020-06-23T11:01:37.462Z",
-      "id": 3
+      "tech": "Sara Wilson",
+      "date": "2020-06-23T11:48:19.771Z"
     }
   ],
   "techs": [
